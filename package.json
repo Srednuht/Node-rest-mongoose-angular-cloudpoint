@@ -1,0 +1,15 @@
+{
+  "name": "armuseum-server",
+  "version": "0.0.1",
+  "description": "ARMuseum App",
+  "main": "server.js",
+  "author": "Paco Benavent",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "method-override": "*",
+    "mongoose": "*",
+    "morgan": "*",
+    "npm": "*"
+  }
+}
